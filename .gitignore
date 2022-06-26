@@ -20,7 +20,6 @@ credentials.py
 production.py
 
 # Data
-data/
 export.csv
 *.csv
 *.csv.gz
